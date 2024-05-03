@@ -7,6 +7,7 @@
             $('.navbar').addClass('sticky-top');
         } else {
             $('.navbar').removeClass('sticky-top');
+
         }
     });
     
